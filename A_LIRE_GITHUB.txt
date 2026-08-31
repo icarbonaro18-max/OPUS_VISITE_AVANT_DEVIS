@@ -1,0 +1,6 @@
+OPUS ELEC - VISITE AVANT DEVIS v2.0
+
+Créer un dépôt GitHub nommé OPUS_VISITE_AVANT_DEVIS.
+Déposer tous les fichiers de ce dossier à la racine puis Commit changes.
+Activer Settings > Pages > Deploy from a branch > main > /(root).
+L'application adapte automatiquement la checklist au type de travaux choisi.
