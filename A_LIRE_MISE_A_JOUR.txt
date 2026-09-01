@@ -1,7 +1,8 @@
-OPUS ELEC - VISITE - APERÇU PDF
+OPUS ELEC - VISITE AVANT DEVIS v2.8 - VISITE EXPRESS
 
-NOUVEAU :
-- le bouton d'ouverture du document est maintenant clairement nommé « Aperçu PDF » ;
-- il génère exactement le PDF final, sans l'envoyer ;
-- le technicien peut contrôler la mise en page, les photos et les informations avant le partage ;
-- le bouton de génération/partage reste séparé pour l'envoi final.
+MODIFICATIONS :
+- tous les titres de sections repassent en bleu OPUS, comme dans les autres applications ;
+- le champ « Contact / coordonnées » devient « Contact / téléphone » ;
+- ajout d'un champ séparé « Adresse e-mail » ;
+- l'adresse e-mail apparaît également dans le PDF final ;
+- toutes les fonctions Visite Express, photos, Mes dossiers et Aperçu PDF sont conservées.
