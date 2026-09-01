@@ -1,0 +1,7 @@
+OPUS ELEC - Visite avant devis - dossiers modifiables
+
+Cette version ajoute : Mes dossiers, sauvegarde automatique de plusieurs dossiers, duplication, renommage, export source modifiable et import.
+Extension source : .opusvisite
+
+Le PDF reste le document final client. Le fichier source est réservé à OPUS ELEC et permet de rouvrir/modifier le dossier.
+Les dossiers de « Mes dossiers » restent locaux à l’appareil ; pour passer sur un autre appareil, exporter la sauvegarde source vers OneDrive puis l’importer.
