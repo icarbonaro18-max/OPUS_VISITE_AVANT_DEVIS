@@ -1,6 +1,10 @@
-OPUS ELEC - VISITE AVANT DEVIS v2.0
+OPUS ELEC - VISITE AVANT DEVIS v2.4 - ICÔNE ROUGE
 
-Créer un dépôt GitHub nommé OPUS_VISITE_AVANT_DEVIS.
-Déposer tous les fichiers de ce dossier à la racine puis Commit changes.
-Activer Settings > Pages > Deploy from a branch > main > /(root).
-L'application adapte automatiquement la checklist au type de travaux choisi.
+La fonctionnalité de l’application reste inchangée.
+La correction du symbole Ω est conservée.
+Seule l’icône Visite devis est remplacée par l’icône rouge validée.
+L’application Réserves conserve son icône orange.
+
+GitHub : envoyer tous les fichiers à la racine du dépôt et remplacer les anciens.
+Faire Commit changes puis attendre le redéploiement GitHub Pages.
+Supprimer ensuite l’ancien raccourci de l’écran d’accueil et le recréer.
