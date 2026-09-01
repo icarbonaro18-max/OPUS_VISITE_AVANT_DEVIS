@@ -1,8 +1,20 @@
-OPUS ELEC - VISITE AVANT DEVIS v2.8 - VISITE EXPRESS
+OPUS ELEC - VISITE AVANT DEVIS v2.9 - CORRECTION CACHE TABLETTE
 
-MODIFICATIONS :
-- tous les titres de sections repassent en bleu OPUS, comme dans les autres applications ;
-- le champ « Contact / coordonnées » devient « Contact / téléphone » ;
-- ajout d'un champ séparé « Adresse e-mail » ;
-- l'adresse e-mail apparaît également dans le PDF final ;
-- toutes les fonctions Visite Express, photos, Mes dossiers et Aperçu PDF sont conservées.
+Pourquoi l'ancienne version revenait :
+- le raccourci installé ouvrait l'URL racine ;
+- l'ancien service worker renvoyait son ancien index.html depuis le cache ;
+- Chrome avec ?v=28 fonctionnait car il s'agissait d'une URL différente.
+
+Correction v2.9 :
+- start_url versionnée ;
+- navigation en mode NETWORK FIRST ;
+- à chaque ouverture, l'application cherche d'abord la version GitHub la plus récente ;
+- si Internet est indisponible, elle garde une copie hors ligne ;
+- les dossiers locaux IndexedDB ne sont pas effacés.
+
+Après mise à jour GitHub :
+1. attendre le déploiement Pages ;
+2. ouvrir https://icarbonaro18-max.github.io/OPUS_VISITE_AVANT_DEVIS/?app=v29 dans Chrome ;
+3. vérifier la mention v2.9 ;
+4. supprimer l'ancien raccourci de l'écran d'accueil ;
+5. depuis cette page, refaire Ajouter à l'écran d'accueil / Installer.
