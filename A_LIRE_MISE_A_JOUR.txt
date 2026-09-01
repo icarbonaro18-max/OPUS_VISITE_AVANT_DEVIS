@@ -1,0 +1,7 @@
+OPUS ELEC - VISITE - APERÇU PDF
+
+NOUVEAU :
+- le bouton d'ouverture du document est maintenant clairement nommé « Aperçu PDF » ;
+- il génère exactement le PDF final, sans l'envoyer ;
+- le technicien peut contrôler la mise en page, les photos et les informations avant le partage ;
+- le bouton de génération/partage reste séparé pour l'envoi final.
